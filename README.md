@@ -1,5 +1,5 @@
 <h1 align="center">Matias Nieto Navarrete </h1>
-<h3 align="center">Étudiant en BA3 en Science Informatique à l'Université Libre de Bruxelles (ULB)</h3>
+<h3 align="center">Diplomé en Science Informatique à l'Université Libre de Bruxelles (ULB)</h3>
 
 ![profile](https://github.com/mnietona/mnietona/assets/74540729/57037085-adb7-4fe5-b91a-4a97712c18ee)
 
