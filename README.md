@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mnietona/mnietona/assets/74540729/57037085-adb7-4fe5-b91a-4a97712c18ee" width="130" style="border-radius: 50%; margin-bottom: 15px;" alt="Matias Profile"/>
+
   
   # Hello, I'm Matias Nieto Navarrete 👋
   **Computer Scientist | Software & Network Engineering**
